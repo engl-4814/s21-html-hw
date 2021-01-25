@@ -1,3 +1,3 @@
-hello my name is *harper*
+hello my name is **harper**
 
-i love **github**
+i love *github*
